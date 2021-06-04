@@ -1,0 +1,23 @@
+{
+  "name": "programacion",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "core-js": "^3.9.1",
+    "nuxt": "^2.15.3",
+    "swiper": "^6.6.2",
+    "vue-awesome-swiper": "^4.1.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/style-resources": "^1.0.0",
+    "sass": "^1.32.12",
+    "sass-loader": "^10.1.1"
+  }
+}
