@@ -17,13 +17,13 @@
     </div>
 
     <div class="img_disco">
-        <video src="../static/img/idents/ident_fotografia.mp4" controls loop></video>
+        <video src="/img/idents/ident_fotografia.mp4" controls loop></video>
     </div>
     <div class="img_disco">
-      <video src="../static/img/idents/ident_video.mp4" controls loop></video>
+      <video src="/img/idents/ident_video.mp4" controls loop></video>
     </div>
     <div class="img_disco_2">
-      <video src="../static/img/idents/ident_audio.mp4" controls loop></video>
+      <video src="/img/idents/ident_audio.mp4" controls loop></video>
     </div>
   </div>
 </template>

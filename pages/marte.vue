@@ -11,7 +11,7 @@
       propia NASA que hacen que los datos sean verídicos.
     </div>
     <div class="img_marte_1" data-aos="fade-up" data-aos-duration="2000">
-      <img src="../static/img/marte/MARTE_1.png" alt="" />
+      <img src="/img/marte/MARTE_1.png" alt="" />
     </div>
     <div class="texto_corrido_inicial text_2_marte">
       <h3 class="subtitle">ACCIONES.</h3>
@@ -21,8 +21,8 @@
       También poder guardar temperaturas de algunos días, así como revisar sus
       datos o borrarlas.
       <div class="img_marte_2">
-        <img data-aos="fade-up" data-aos-duration="2000" src="../static/img/marte/MARTE_2.png" alt="" />
-        <img data-aos="fade-up" data-aos-duration="2000" src="../static/img/marte/MARTE_3.png" alt="" />
+        <img data-aos="fade-up" data-aos-duration="2000" src="/img/marte/MARTE_2.png" alt="" />
+        <img data-aos="fade-up" data-aos-duration="2000" src="/img/marte/MARTE_3.png" alt="" />
       </div>
     </div>
     <div class="buttons_link">

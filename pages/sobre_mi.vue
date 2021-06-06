@@ -6,7 +6,7 @@
       en la Escuela Superior de Diseño de Madrid (ESDM).
     </div>
     <div class="img_sobre_mi">
-      <img src="../static/cv.jpg" alt="" />
+      <img src="/cv.jpg" alt="" />
     </div>
     <div class="texto_corrido_foto">
       <div class="subtitle">¿Qué puedo aportar?</div><br />

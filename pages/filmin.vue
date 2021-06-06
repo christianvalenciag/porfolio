@@ -21,7 +21,7 @@
       </div>
     </div>
     <div class="img_filmin_1" data-aos="fade-up" data-aos-duration="2000">
-      <img src="../static/img/filmin/inicio.png" alt="" />
+      <img src="/img/filmin/inicio.png" alt="" />
     </div>
     <div class="texto_corrido_inicial inicio_cam_bus">
       <h3 class="subtitle">INICIO, CANALES Y BÚSQUEDA.</h3>
@@ -39,13 +39,13 @@
     </div>
     <div class="img_filmin_2">
       <div class="img_one" data-aos="fade-up" data-aos-duration="2000">
-        <img src="../static/img/filmin/HOME.png" alt="" />
+        <img src="/img/filmin/HOME.png" alt="" />
       </div>
       <div class="img_two" data-aos="fade-up" data-aos-duration="3000">
-        <img src="../static/img/filmin/CANAL.png" alt="" />
+        <img src="/img/filmin/CANAL.png" alt="" />
       </div>
       <div class="img_three" data-aos="fade-up" data-aos-duration="3000">
-        <img src="../static/img/filmin/LUPA.png" alt="" />
+        <img src="/img/filmin/LUPA.png" alt="" />
       </div>
     </div>
     <div class="texto_corrido_inicial pelis_filtr">
@@ -93,13 +93,13 @@
     </div>
     <div class="img_filmin_4">
       <div class="img_one" data-aos="fade-up" data-aos-duration="2000">
-        <img src="../static/img/filmin/AMIGOS_1.png" alt="" />
+        <img src="/img/filmin/AMIGOS_1.png" alt="" />
       </div>
       <div class="img_two" data-aos="fade-up" data-aos-duration="2000">
-        <img src="../static/img/filmin/AMIGOS_2.png" alt="" />
+        <img src="/img/filmin/AMIGOS_2.png" alt="" />
       </div>
       <div class="img_three" data-aos="fade-up" data-aos-duration="2000">
-        <img src="../static/img/filmin/AMIGOS_3.png" alt="" />
+        <img src="/img/filmin/AMIGOS_3.png" alt="" />
       </div>
     </div>
     <div class="texto_corrido_inicial">
@@ -119,13 +119,13 @@
     </div>
      <div class="img_filmin_5">
       <div class="img_one" data-aos="fade-up" data-aos-duration="2000">
-        <img src="../static/img/filmin/KIDS_1.png" alt="" />
+        <img src="/img/filmin/KIDS_1.png" alt="" />
       </div>
       <div class="img_two" data-aos="fade-up" data-aos-duration="2000">
-        <img src="../static/img/filmin/KIDS_2.png" alt="" />
+        <img src="/img/filmin/KIDS_2.png" alt="" />
       </div>
       <div class="img_three" data-aos="fade-up" data-aos-duration="2000">
-        <img src="../static/img/filmin/KIDS_3.png" alt="" />
+        <img src="/img/filmin/KIDS_3.png" alt="" />
       </div>
     </div>
     <div class="buttons_link">
@@ -134,8 +134,8 @@
     </div>
     <div class="happy_path">
       <div class="title">HAPPY PARTHS</div>
-      <video src="../static/img/filmin/happy_path.mp4" autoplay loop></video>
-      <video src="../static/img/filmin/happy_2.mp4" autoplay loop></video>
+      <video src="/img/filmin/happy_path.mp4" autoplay loop></video>
+      <video src="/img/filmin/happy_2.mp4" autoplay loop></video>
     </div>
   </div>
 </template>

@@ -24,7 +24,7 @@
     <div></div>
     <div class="imgs">
       <div class="img_filmin" data-aos="fade-up" data-aos-duration="2000">
-        <img src="../static/img/home.png" alt="">
+        <img src="/img/home.png" alt="">
       </div>
       <div class="text_filmin">
         <div class="title_filmin">
@@ -40,7 +40,7 @@
     </div>
     <div class="imgs_2">
       <div class="img_filmin" data-aos="fade-up" data-aos-duration="2000">
-        <img src="../static/img/marte_1.png" alt="">
+        <img src="/img/marte_1.png" alt="">
       </div>
       <div class="text_filmin">
         <div class="title_filmin">

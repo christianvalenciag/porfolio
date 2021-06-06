@@ -30,7 +30,7 @@
       AMA.
     </div>
     <div class="img_revista">
-        <img src="../static/img/revista/REVISTAS_PLIEGOS.png" alt="">
+        <img src="/img/revista/REVISTAS_PLIEGOS.png" alt="">
     </div>
   </div>
 </template>

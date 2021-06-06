@@ -12,7 +12,7 @@
       </div>
     </div>
     <div class="img_marca" data-aos="fade-up" data-aos-duration="2000">
-      <img src="../static/MARCANAME.png" alt="" />
+      <img src="/MARCANAME.png" alt="" />
     </div>
   </div>
 </template>

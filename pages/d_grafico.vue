@@ -24,7 +24,7 @@
     </div>
     <div class="img">
       <div class="img_revista" data-aos="fade-up" data-aos-duration="2000">
-        <img src="../static/img/revista.png" alt="">
+        <img src="/img/revista.png" alt="">
       </div>
       <div class="text_revista">
         <div class="title_revista">
@@ -51,12 +51,12 @@
         </div>
       </div>
       <div class="img_ident" data-aos="fade-down-left" data-aos-duration="2000">
-        <img src="../static/img/tv.png" alt="">
+        <img src="/img/tv.png" alt="">
       </div>
     </div>
     <div class="img img_disco_x">
       <div class="img_disco" data-aos="fade-right" data-aos-duration="2000">
-        <img src="../static/img/DISCO.png" alt="">
+        <img src="/img/DISCO.png" alt="">
       </div>
       <div class="text_revista text_disco">
         <div class="title_revista">
@@ -83,7 +83,7 @@
         </div>
       </div>
       <div class="img_mermelada" data-aos="fade-left" data-aos-duration="2000">
-        <img src="../static/img/3_mermeladas.png" alt="">
+        <img src="/img/3_mermeladas.png" alt="">
       </div>
     </div>
   </div>

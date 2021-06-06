@@ -19,13 +19,13 @@
     </div>
     
     <div class="img_disco">
-      <img src="../static/img/disco/DISCO_2.png" alt="" />
+      <img src="/img/disco/DISCO_2.png" alt="" />
     </div>
     <div class="img_disco">
-      <img src="../static/img/disco/DISCO_3.png" alt="" />
+      <img src="/img/disco/DISCO_3.png" alt="" />
     </div>
     <div class="img_disco_2">
-      <img src="../static/img/disco/DISCO.png" alt="" />
+      <img src="/img/disco/DISCO.png" alt="" />
     </div>
   </div>
 </template>

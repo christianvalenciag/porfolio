@@ -8,13 +8,13 @@
       diseño.
     </div>
     <div class="img_merme">
-        <img src="../static/img/mermeladas/1_mermelada.jpg" alt="">
+        <img src="/img/mermeladas/1_mermelada.jpg" alt="">
     </div>
     <div class="img_merme">
-        <img src="../static/img/mermeladas/3_mermeladas.jpg" alt="">
+        <img src="/img/mermeladas/3_mermeladas.jpg" alt="">
     </div>
     <div class="img_confit">
-        <img src="../static/img/mermeladas/confitura.jpg" alt="">
+        <img src="/img/mermeladas/confitura.jpg" alt="">
     </div>
   </div>
 </template>
