@@ -134,8 +134,8 @@
     </div>
     <div class="happy_path">
       <div class="title">HAPPY PARTHS</div>
-      <video src="/img/filmin/happy_path.mp4" autoplay loop></video>
-      <video src="/img/filmin/happy_2.mp4" autoplay loop></video>
+      <video src="/img/filmin/happy_path.mp4" autoplay controls loop></video>
+      <video src="/img/filmin/happy_2.mp4" autoplay controls loop></video>
     </div>
   </div>
 </template>
